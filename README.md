@@ -8,8 +8,11 @@ It's a backup of face_landmark_1000
 ## Dependencies
 
 opencv
+
 pytorch (suggest version>=0.4.0)
+
 onnx
+
 onnxruntime (suggest version 1.0.0)
 
 ## How to Run
